@@ -1,0 +1,5 @@
+C:\Users\eliu\Desktop\gofish\GoFishLibrary\bin\Debug\GoFishLibrary.dll
+C:\Users\eliu\Desktop\gofish\GoFishLibrary\bin\Debug\GoFishLibrary.pdb
+C:\Users\eliu\Desktop\gofish\GoFishLibrary\obj\Debug\GoFishLibrary.csproj.CoreCompileInputs.cache
+C:\Users\eliu\Desktop\gofish\GoFishLibrary\obj\Debug\GoFishLibrary.dll
+C:\Users\eliu\Desktop\gofish\GoFishLibrary\obj\Debug\GoFishLibrary.pdb

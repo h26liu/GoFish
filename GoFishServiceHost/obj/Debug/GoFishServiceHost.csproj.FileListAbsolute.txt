@@ -1,0 +1,10 @@
+C:\Users\eliu\Desktop\gofish\GoFishServiceHost\bin\Debug\GoFishServiceHost.exe
+C:\Users\eliu\Desktop\gofish\GoFishServiceHost\bin\Debug\GoFishLibrary.dll
+C:\Users\eliu\Desktop\gofish\GoFishServiceHost\bin\Debug\GoFishLibrary.pdb
+C:\Users\eliu\Desktop\gofish\GoFishServiceHost\bin\Debug\GoFishServiceHost.exe.config
+C:\Users\eliu\Desktop\gofish\GoFishServiceHost\bin\Debug\GoFishServiceHost.pdb
+C:\Users\eliu\Desktop\gofish\GoFishServiceHost\obj\Debug\GoFishServiceHost.csprojAssemblyReference.cache
+C:\Users\eliu\Desktop\gofish\GoFishServiceHost\obj\Debug\GoFishServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\eliu\Desktop\gofish\GoFishServiceHost\obj\Debug\GoFishServiceHost.csproj.CopyComplete
+C:\Users\eliu\Desktop\gofish\GoFishServiceHost\obj\Debug\GoFishServiceHost.exe
+C:\Users\eliu\Desktop\gofish\GoFishServiceHost\obj\Debug\GoFishServiceHost.pdb
